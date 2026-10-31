@@ -1,7 +1,7 @@
 # TFA6 POS: From Arrays to Eloquent (Laravel)
 
 **IT0049 Web System Technologies · Technical Formative Assessment 6**
-Kyle Pingol · 202412274 · TC31 · Dr. Roman Villones
+Kyle Pingol · TC31 · Dr. Roman Villones
 
 TFA6 rebuilds the [TFA5 POS](https://github.com/Kairu3452/TFA5-Laravel-POS) with a **real database**. The static PHP arrays in the controllers are gone. **Migrations** now create the tables, a **seeder** fills them with sample data, and the controllers read the records through **Eloquent models**. The schema matches TFA2.
 
